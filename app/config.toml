@@ -1,0 +1,11 @@
+[global]
+
+showWarningsOnDirectExecution = true
+
+[logger]
+
+level = "debug"
+
+[runner]
+
+magicEnabled = true
